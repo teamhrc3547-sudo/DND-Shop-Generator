@@ -43,10 +43,10 @@ dnd-shop-generator/
 ├─> requirements.txt
 ├─> README.md
 |─> data/
-│   ├── magic_items.csv
-│   ├── general_store_items.csv
-│   ├── blacksmith_shop.csv
-│   ├── amorer_store.csv
-│   └── alchemy_store.csv
+│   ├─> magic_items.csv
+│   ├─> general_store_items.csv
+│   ├─> blacksmith_shop.csv
+│   ├─> amorer_store.csv
+│   └─> alchemy_store.csv
 └─> saves/
 ```
