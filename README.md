@@ -22,7 +22,7 @@
 
 Clone Repository:
 ```
-git clone https://github.com/your-username/dnd-shop-generator.git
+git clone https://github.com/teamhrc3547-sudo/DND-Shop-Generator
 cd dnd-shop-generator
 ```
 Install Dependencies:
