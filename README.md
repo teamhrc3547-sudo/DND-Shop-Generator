@@ -1,6 +1,6 @@
 # DND-Shop-Generator
 
-teamhrc3527-sudo
+`>>>` teamhrc3527-sudo
 
 ## Features:
 
@@ -14,6 +14,9 @@ teamhrc3527-sudo
 - Variety slider for cross-shop inventories
 - Save shops by city
 - Sort items by rarity, name, and price
+
+- Items Included come from https://5e.tools/items.html
+    - Includes items from all default sources in 5e.tools and *The Griffons Saddlebag Book 1-5*
 
 ## Getting Started:
 
@@ -32,19 +35,18 @@ streamlit run app.py
 ```
 
 ### File Structure:
-
-```text
+```
 dnd-shop-generator/
 │
-├── app.py
-├── shopgen.py
-├── requirements.txt
-├── README.md
-├── data/
+├─> app.py
+├─> shopgen.py
+├─> requirements.txt
+├─> README.md
+|─> data/
 │   ├── magic_items.csv
 │   ├── general_store_items.csv
 │   ├── blacksmith_shop.csv
 │   ├── amorer_store.csv
 │   └── alchemy_store.csv
-└── saves/
+└─> saves/
 ```
